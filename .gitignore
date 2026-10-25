@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# PyCharm / IDE
+.idea/
+.vscode/
+*.iml
+
+# 其他
+.DS_Store
+.ipynb_checkpoints/
+*.log
